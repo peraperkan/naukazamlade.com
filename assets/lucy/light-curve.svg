@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 260" role="img" aria-label="Shematski grafik promene sjaja asteroida tokom vremena">
+  <rect width="360" height="260" fill="#f4f9fc"/>
+  <path d="M53 25V211H336" fill="none" stroke="#334e60" stroke-width="2"/>
+  <path d="M54 125 C78 123 83 64 106 65 S136 176 161 175 S189 67 216 69 S247 178 272 176 S306 76 334 75" fill="none" stroke="#087bcc" stroke-width="5" stroke-linecap="round"/>
+  <g fill="#087bcc"><circle cx="106" cy="65" r="5"/><circle cx="161" cy="175" r="5"/><circle cx="216" cy="69" r="5"/><circle cx="272" cy="176" r="5"/></g>
+  <g fill="#29475b" font-family="Arial,sans-serif" font-size="15"><text x="155" y="238">vreme →</text><text transform="translate(25 160) rotate(-90)">sjaj</text></g>
+</svg>

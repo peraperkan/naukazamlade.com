@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 210" role="img" aria-label="Slojevi vlakana i veziva u kompozitnom materijalu">
+<rect width="320" height="210" fill="#10283a"/><text x="18" y="31" fill="#eaf4fb" font-family="Arial" font-size="19" font-weight="bold">Kompozit</text>
+<rect x="30" y="62" width="260" height="32" rx="4" fill="#1da6d7"/><rect x="30" y="103" width="260" height="31" rx="4" fill="#d4c49f"/><rect x="30" y="143" width="260" height="31" rx="4" fill="#1da6d7"/>
+<path d="M40 107l30 23 30-23 30 23 30-23 30 23 30-23 30 23 30-23" fill="none" stroke="#715e3d" stroke-width="4"/>
+<text x="36" y="83" fill="#07202f" font-family="Arial" font-size="14" font-weight="bold">vezivo</text><text x="36" y="124" fill="#3a332b" font-family="Arial" font-size="14" font-weight="bold">vlakna</text><text x="36" y="164" fill="#07202f" font-family="Arial" font-size="14" font-weight="bold">vezivo</text>
+</svg>

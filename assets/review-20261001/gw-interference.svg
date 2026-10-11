@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1"
+  width="100%" height="100%" viewBox="-23 0 430 320" >
+<title>Michelson Interferometer</title>
+<defs>
+    <marker id="a1" viewBox="0 0 15 10" refX="15" refY="5"
+		markerUnits="strokeWidth" orient="auto"
+		markerWidth="10" markerHeight="10">
+		<path d="M0,0 l15,5 l-15,5 A4,4 0 0,0 0,0" fill="red" />
+	</marker>
+    <marker id="a2" viewBox="0 0 15 10" refX="15" refY="5"
+		markerUnits="strokeWidth" orient="auto"
+		markerWidth="10" markerHeight="10">
+		<path d="M0,0 l15,5 l-15,5 A4,4 0 0,0 0,0" fill="#ff9999" />
+	</marker>
+</defs>
+<g stroke="black" stroke-width="1" fill="none">
+    <path d="M100,10 h50 M107.3,217.7 l50,-50 M380,225 v-50" stroke="gray" stroke-width="3"/>
+    <rect x="5" y="190" width="30" height="20" fill="gray"/>
+    <rect x="125" y="283" width="20" height="30" fill="gray" transform="rotate(-3,125,10)" />
+    <path d="M35,200 h50 h40 M140,182 l4,50 l4,50" 
+        stroke="red" stroke-width="2" marker-mid="url(#a1)"/>
+    <path d="M125,200 h80 h175 M380,200 l-120,-9 -120,-9
+            M125,200 v-70 v-120 M125,10 l8,100 L140,182" 
+        stroke="#ff9999" stroke-width="2" marker-mid="url(#a2)"/>
+</g>
+<text font-size="15" stroke="none" fill="black" text-anchor="middle" font-family="New Century Schoolbook" >
+    <tspan x="160" y="12">M1</tspan>
+    <tspan x="100" y="225">M</tspan>
+    <tspan x="392" y="205">M2</tspan>
+    <tspan x="20" y="225">S</tspan>
+    <tspan x="140" y="280">E</tspan>
+    <tspan x="135" y="23">A</tspan>
+    <tspan x="370" y="195">B</tspan>
+    <tspan x="115" y="195">C</tspan>
+    <tspan x="160" y="180">C'</tspan>
+    <tspan x="20" y="170">coherent</tspan><tspan x="20" y="185">light source</tspan>
+    <tspan x="185" y="150">half-silvered</tspan><tspan x="185" y="160">mirror</tspan>
+    <tspan x="75" y="15">mirror</tspan>
+    <tspan x="380" y="235">mirror</tspan>
+    <tspan x="195" y="300">detector</tspan>
+</text>
+</svg>

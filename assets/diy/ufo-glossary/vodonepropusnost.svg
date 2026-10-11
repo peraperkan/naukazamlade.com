@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 210" role="img" aria-label="Zaptiven spoj dva dela trupa zaustavlja prodor vode">
+<rect width="320" height="210" fill="#10283a"/><text x="18" y="30" fill="#eaf4fb" font-family="Arial" font-size="18" font-weight="bold">Vodonepropustan spoj</text>
+<path d="M20 145H300V210H20Z" fill="#126a96"/><path d="M78 66h164v44H78zM78 117h164v44H78z" fill="#d2dee7" stroke="#edf7fc" stroke-width="3"/>
+<rect x="77" y="107" width="166" height="13" rx="5" fill="#70e7d9"/><path d="M42 136l23-13M42 159l23-13M257 125l23 13M257 149l23 13" stroke="#68c9f2" stroke-width="5" stroke-linecap="round"/>
+<text x="89" y="99" fill="#243d4f" font-family="Arial" font-size="13">deo trupa</text><text x="100" y="147" fill="#243d4f" font-family="Arial" font-size="13">deo trupa</text><text x="120" y="196" fill="#eaf4fb" font-family="Arial" font-size="13">zaptivka između delova</text>
+</svg>

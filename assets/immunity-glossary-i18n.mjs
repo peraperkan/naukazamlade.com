@@ -1,0 +1,42 @@
+export const immunityGlossaryTranslations={
+ sl:[
+  ['Imunski sistem',['Imunski sistem','imunskih celic','imunologiji'],'Imunski sistem sestavljajo celice, tkiva, organi in molekule, ki sodelujejo pri obrambi telesa. Njegovi deli skupaj prepoznavajo in omejujejo okužbe. Imunologija preučuje ta sistem in njegove odzive.'],
+  ['Tkivno mikrookolje in stroma',['tkivno mikrookolje','tkivnega mikrookolja','strome'],'Tkivno mikrookolje je prostor, v katerem celice živijo in vplivajo druga na drugo. Zajema druge celice, oporno strukturo in signalne molekule. Stroma je oporni del tkiva, ki sodeluje pri nastajanju tega okolja.'],
+  ['Dendritične celice',['dendritične celice'],'Dendritične celice so del imunskega sistema. Sprejmejo material iz okolja in njegove dele predstavijo drugim imunskim celicam. Tako pomagajo usmerjati imunski odziv.'],
+  ['Bezgavke',['bezgavkah'],'Bezgavke so majhni organi, povezani z limfnimi žilami. V njih so številne imunske celice in filtrira se limfa. V njih se srečajo celice, ki prepoznajo grožnjo, in celice, ki nanjo odgovorijo.'],
+  ['Primarni limfatični organi',['Primarni limfatični organi','limfatičnih organov'],'Limfatični organi so pomembni za razvoj in delovanje limfocitov. Kostni mozeg in priželjc sta primarna limfatična organa. Bezgavke in vranica so sekundarni organi.'],
+  ['Kostni mozeg',['kostnega mozga','kostni mozeg'],'Kostni mozeg je tkivo v notranjosti nekaterih kosti. V njem nastajajo krvne celice, tudi številne imunske celice. Krvotvorne matične celice so izvor različnih vrst krvnih celic.'],
+  ['Priželjc',['priželjca','priželjcu'],'Priželjc je organ v prsnem košu za prsnico. V njem dozorevajo limfociti T. Pomaga tudi omejevati odzive proti lastnim tkivom.'],
+  ['Limfociti T',['limfociti T'],'Limfociti T so skupina belih krvnih celic. Nekateri usmerjajo imunski odziv, drugi napadajo okužene celice. Črka T je povezana s priželjcem, kjer dozorevajo.'],
+  ['Patogeni',['patogene'],'Patogen je povzročitelj bolezni. Lahko gre za bakterijo, virus, glivo ali parazita. Ni vsak mikroorganizem v vseh okoliščinah patogen.'],
+  ['Avtoimunske bolezni',['avtoimunskih bolezni','avtoimunskih motenj'],'Pri avtoimunskih boleznih imunski sistem napada dele lastnega telesa. Tak odziv lahko poškoduje tkiva in delovanje organov. Imunska toleranca običajno omejuje takšne odzive.'],
+  ['Atrofija',['atrofijo'],'Atrofija pomeni zmanjšanje tkiva ali organa. Povzroči jo lahko zmanjšanje velikosti ali števila celic. Njene posledice so odvisne od organa in okoliščin.'],
+  ['Limfociti',['limfociti','limfocite'],'Limfociti so vrsta belih krvnih celic. Mednje sodijo limfociti B, limfociti T in naravne celice ubijalke. Različne skupine opravljajo različne obrambne naloge.'],
+  ['Matične celice',['matičnih celicah'],'Matične celice se lahko obnavljajo in ustvarjajo bolj specializirane celice. Njihove sposobnosti so odvisne od vrste celice in njenega okolja. V kostnem mozgu krvotvorne matične celice obnavljajo krvne celice.'],
+  ['Oksidativni stres',['oksidativnega stresa'],'Oksidativni stres pomeni porušeno ravnovesje med reaktivnimi molekulami in obrambnimi sistemi celice. Te molekule lahko poškodujejo beljakovine, maščobe in dedni material. Imajo tudi normalne naloge, zato vsaka njihova prisotnost ni škodljiva.'],
+  ['Mitohondriji',['mitohondriji'],'Mitohondriji so celični organeli, ki sodelujejo pri pretvorbi energije hrane. Opravljajo tudi druge presnovne in signalne naloge. Njihovo delovanje je povezano z odzivom celice na stres.'],
+  ['Kalorična restrikcija',['kalorična restrikcija'],'Kalorična restrikcija pomeni manjši energijski vnos ob zadostni preskrbi z nujnimi hranili. Raziskovalci preučujejo vpliv na presnovo in staranje. Izsledkov posameznega poskusa ni mogoče neposredno prenesti na vsakega človeka.'],
+  ['Rapamicin',['rapamicin'],'Rapamicin je zdravilo, ki vpliva na signalno pot mTOR. Preučujejo ga tudi v raziskavah biološkega staranja. Njegova uporaba zahteva presojo učinkov in neželenih posledic pod zdravniškim nadzorom.'],
+  ['Senescentne celice',['senescentne'],'Senescentne celice so žive celice, ki so se prenehale deliti. Izločajo lahko molekule, ki vplivajo na sosednje celice. Senescenca ima lahko koristne in neugodne učinke.']
+ ],
+ en:[
+  ['Immune system',['immune system','immune cells','immunology'],'The immune system consists of cells, tissues, organs and molecules involved in protecting the body. Its parts work together to recognize and limit infections. Immunology is the study of this system and its responses.'],
+  ['Tissue microenvironment and stroma',['tissue microenvironment','stroma'],'A tissue microenvironment is the local setting in which cells live and interact. It includes other cells, structural support and signaling molecules. The stroma is the supporting part of a tissue that helps form this environment.'],
+  ['Dendritic cells',['dendritic cells'],'Dendritic cells are part of the immune system. They take up material from their surroundings and present pieces of it to other immune cells. This helps initiate and direct an immune response.'],
+  ['Lymph nodes',['lymph nodes'],'Lymph nodes are small organs connected by lymph vessels. They contain many immune cells and filter lymph. They are important places where cells that recognize threats meet cells that respond to them.'],
+  ['Primary lymphoid organs',['Primary lymphoid organs','lymphoid organs'],'Lymphoid organs are important to the development and work of lymphocytes. Bone marrow and the thymus are primary lymphoid organs. Lymph nodes and the spleen are secondary organs.'],
+  ['Bone marrow',['bone marrow'],'Bone marrow is tissue inside certain bones. Blood cells, including many immune cells, develop there. Blood-forming stem cells in marrow give rise to several blood-cell lineages.'],
+  ['Thymus',['thymus'],'The thymus is an organ in the chest behind the breastbone. T lymphocytes develop and mature there. It helps the immune system avoid attacking the body’s own tissues.'],
+  ['T lymphocytes',['T lymphocytes'],'T lymphocytes are a group of white blood cells. Some guide immune responses while others attack particular infected cells. Their name refers to the thymus, where they mature.'],
+  ['Pathogens',['pathogens'],'A pathogen is an agent that causes disease. It can be a bacterium, virus, fungus or parasite. Many microbes are not pathogenic in a given setting.'],
+  ['Autoimmune diseases',['autoimmune diseases','autoimmune disorders'],'In autoimmune disease, the immune system reacts against the body’s own parts. Such reactions can damage tissue and disrupt organs. Immune tolerance normally helps limit these reactions.'],
+  ['Atrophy',['atrophy'],'Atrophy means a decrease in the size of a tissue or organ. It may involve cells shrinking or becoming fewer in number. Its implications depend on the organ and the process involved.'],
+  ['Lymphocytes',['lymphocytes'],'Lymphocytes are a kind of white blood cell. They include B cells, T cells and natural killer cells. Each group has different roles in immune defense.'],
+  ['Stem cells',['stem cells'],'Stem cells can renew themselves and produce more specialized cells. Their abilities depend on the kind of cell and its surroundings. Blood-forming stem cells in bone marrow replenish blood cells.'],
+  ['Oxidative stress',['oxidative stress'],'Oxidative stress is an imbalance between reactive molecules and systems that restrain them. These molecules can damage proteins, fats and genetic material. They also have normal functions, so their mere presence is not always harmful.'],
+  ['Mitochondria',['mitochondria'],'Mitochondria are cell structures involved in converting nutrients into usable energy. They also have roles in metabolism and cell signaling. Their function is linked to how cells respond to stress.'],
+  ['Caloric restriction',['caloric restriction'],'Caloric restriction reduces energy intake while keeping essential nutrients adequate. Researchers study its effects on metabolism and ageing. Results from one experiment cannot automatically be applied to every person.'],
+  ['Rapamycin',['rapamycin'],'Rapamycin is a medicine that affects the mTOR signaling pathway. Researchers also study it in biological ageing. Its benefits, harms and appropriate uses require medical supervision.'],
+  ['Senescent cells',['senescent'],'Senescent cells are living cells that have stopped dividing. They may release substances that affect nearby cells. Senescence can be helpful or harmful depending on the context.']
+ ]
+};

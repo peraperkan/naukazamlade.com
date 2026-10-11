@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 240" role="img" aria-label="Stylized saucer boat on water">
+  <rect width="320" height="240" rx="16" fill="#112b3a"/>
+  <path d="M0 176q24-12 48 0t48 0t48 0t48 0t48 0t48 0t32 0v64H0z" fill="#1b6b91"/>
+  <path d="M26 167q134-50 268 0-23 30-134 30T26 167Z" fill="#92d5e7" stroke="#daf8ff" stroke-width="4"/>
+  <path d="M100 151q8-50 60-57 52 7 60 57" fill="#4aa7c8" stroke="#d7faff" stroke-width="4"/>
+  <rect x="129" y="111" width="62" height="25" rx="10" fill="#c5eef6"/>
+  <circle cx="64" cy="169" r="5" fill="#ffdf69"/><circle cx="100" cy="179" r="5" fill="#ffdf69"/><circle cx="220" cy="179" r="5" fill="#ffdf69"/><circle cx="256" cy="169" r="5" fill="#ffdf69"/>
+  <path d="M54 204q21 7 42 0m48 10q22 7 44 0m44-10q19 7 38 0" fill="none" stroke="#b8ecf8" stroke-width="4" stroke-linecap="round"/>
+</svg>

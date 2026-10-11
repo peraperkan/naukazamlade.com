@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 210" role="img" aria-label="Težište plovila i centar potiska pri naginjanju">
+<rect width="320" height="210" fill="#10283a"/><text x="20" y="29" fill="#eaf4fb" font-family="Arial" font-size="19" font-weight="bold">Težište i ravnoteža</text>
+<path d="M0 145H320V210H0Z" fill="#126a96"/>
+<g transform="rotate(-9 160 135)"><path d="M48 109H272L240 157H80Z" fill="#d4dee7" stroke="#f2f7fb" stroke-width="3"/><circle cx="132" cy="115" r="8" fill="#ff8d77"/><circle cx="172" cy="149" r="8" fill="#70e7d9"/></g>
+<path d="M131 95V61" stroke="#ff8d77" stroke-width="3"/><path d="M173 170v24" stroke="#70e7d9" stroke-width="3"/>
+<text x="25" y="58" fill="#ffc1b7" font-family="Arial" font-size="13">težište</text><text x="184" y="198" fill="#9df3e8" font-family="Arial" font-size="13">centar potiska</text>
+</svg>

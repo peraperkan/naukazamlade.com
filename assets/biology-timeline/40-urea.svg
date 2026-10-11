@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="670" height="400" viewBox="0, 0, 670, 400">
+  <g id="Background">
+    <rect x="0" y="0" width="670" height="400" fill="#FFFFFF"/>
+  </g>
+  <g id="Layer_2">
+    <path d="M0,-0 L267.697,-0 L267.697,400 L0,400 z" fill="#FFBCBC"/>
+    <path d="M267.697,0 L670,0 L670,400 L267.697,400 z" fill="#BFDDFF"/>
+    <path d="M253.659,0 L253.659,189.02 L267.697,189.02 L267.697,0" fill="#D44D52"/>
+    <path d="M253.835,400 L253.659,205.821 L267.697,205.821 L267.697,400" fill="#D44D52"/>
+  </g>
+  <g id="Layer_2">
+    <g>
+      <path d="M451.447,340 C406.884,340.358 366.575,320.103 337.981,286.943" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-linecap="round"/>
+      <path d="M340.305,285.046 L332.922,280.746 L335.657,288.841 z" fill="#000000" fill-opacity="1" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M337.529,122.638 C365.245,88.556 407.842,69.891 451.447,69.631 C493.411,69.4 533.734,87.392 561.618,118.366" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-linecap="round"/>
+      <path d="M559.327,120.303 L566.783,124.475 L563.909,116.429 z" fill="#000000" fill-opacity="1" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M576.754,138.948 C588.645,158.851 594.75,181.674 594.905,204.816 C595.237,221.498 591.293,237.757 585.195,253.156" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-linecap="round"/>
+      <path d="M582.433,251.984 L582.07,260.52 L587.956,254.328 z" fill="#000000" fill-opacity="1" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <path d="M571.956,278.188 C544.788,317.494 498.728,339.371 451.447,340" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-linecap="round"/>
+    <g>
+      <path d="M455.189,340 C444.295,339.596 437.145,327.058 432.668,316.468" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-linecap="round"/>
+      <path d="M435.465,315.384 L429.777,309.008 L429.87,317.552 z" fill="#000000" fill-opacity="1" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M430.313,107.161 C432.105,102.346 434.35,97.724 436.837,93.234 C440.685,86.485 446.605,78.362 455.189,78.182 C466.082,78.586 473.233,91.125 477.71,101.714" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-linecap="round"/>
+      <path d="M474.913,102.798 L480.601,109.174 L480.507,100.63 z" fill="#000000" fill-opacity="1" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M480.961,308.078 C477.804,316.287 472.522,330.971 463.587,337.145" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-linecap="round"/>
+      <path d="M462.621,334.304 L456.013,339.72 L464.553,339.985 z" fill="#000000" fill-opacity="1" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <path d="M414.879,76.552 C377.986,76.552 348.078,70.925 348.078,63.984" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-linecap="round"/>
+    <g>
+      <path d="M62.176,63.707 C114.717,64.207 113.633,116.122 69.364,117.517" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-linecap="round"/>
+      <path d="M69.489,114.519 L61.371,117.183 L69.239,120.514 z" fill="#000000" fill-opacity="1" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M138.465,63.707 C90.949,64.2 91.608,114.992 131.125,117.02" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-linecap="round"/>
+      <path d="M131.238,120.018 L139.12,116.719 L131.012,114.022 z" fill="#000000" fill-opacity="1" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <path d="M99.474,300.531 C99.474,314.954 90.097,326.646 78.529,326.646" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-linecap="round"/>
+    <path d="M99.474,303.075 C99.474,316.093 107.903,326.646 118.301,326.646" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-linecap="round"/>
+    <g>
+      <path d="M99.474,300.23 L99.474,282.816" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-linecap="round"/>
+      <path d="M102.474,282.816 L99.474,274.816 L96.474,282.816 z" fill="#000000" fill-opacity="1" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M85.557,82.51 L121.724,82.51 C123.318,82.51 124.61,84.004 124.61,85.846 L124.61,95.005 C124.61,96.848 123.318,98.341 121.724,98.341 L85.557,98.341 C83.964,98.341 82.672,96.848 82.672,95.005 L82.672,85.846 C82.672,84.004 83.964,82.51 85.557,82.51 z" fill="#FFFFFF"/>
+      <text transform="matrix(1, 0, 0, 1, 103.428, 90.126)">
+        <tspan x="-15.671" y="3.647" font-family="Helvetica" font-size="12" fill="#000000">CPS I</tspan>
+      </text>
+    </g>
+    <g>
+      <path d="M556.042,188.798 L635.306,188.798 C638.798,188.798 641.629,191.548 641.629,194.94 L641.629,211.8 C641.629,215.192 638.798,217.942 635.306,217.942 L556.042,217.942 C552.549,217.942 549.718,215.192 549.718,211.8 L549.718,194.94 C549.718,191.548 552.549,188.798 556.042,188.798 z" fill="#FFFFFF"/>
+      <text transform="matrix(1, 0, 0, 1, 595.207, 202.692)">
+        <tspan x="-42.691" y="-3.251" font-family="Helvetica" font-size="12" fill="#000000">Arginosuccinate</tspan>
+        <tspan x="-15.791" y="11.749" font-family="Helvetica" font-size="12" fill="#000000">Lyase</tspan>
+      </text>
+    </g>
+    <g>
+      <path d="M429.112,332.003 L474.292,332.003 C476.282,332.003 477.896,333.451 477.896,335.238 L477.896,344.118 C477.896,345.905 476.282,347.353 474.292,347.353 L429.112,347.353 C427.121,347.353 425.508,345.905 425.508,344.118 L425.508,335.238 C425.508,333.451 427.121,332.003 429.112,332.003 z" fill="#FFFFFF"/>
+      <text transform="matrix(1, 0, 0, 1, 451.569, 339.559)">
+        <tspan x="-23.681" y="4.206" font-family="Helvetica" font-size="12" fill="#000000">Arginase</tspan>
+      </text>
+    </g>
+    <g>
+      <path d="M412.17,55.265 L491.434,55.265 C494.927,55.265 497.758,58.015 497.758,61.407 L497.758,78.267 C497.758,81.659 494.927,84.409 491.434,84.409 L412.17,84.409 C408.678,84.409 405.847,81.659 405.847,78.267 L405.847,61.407 C405.847,58.015 408.678,55.265 412.17,55.265 z" fill="#FFFFFF"/>
+      <text transform="matrix(1, 0, 0, 1, 451.336, 69.408)">
+        <tspan x="-42.691" y="-3.5" font-family="Helvetica" font-size="12" fill="#000000">Arginosuccinate</tspan>
+        <tspan x="-30.021" y="11.5" font-family="Helvetica" font-size="12" fill="#000000">Synthetase</tspan>
+      </text>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 327.583, 131.877)">
+      <tspan x="-23.341" y="3.082" font-family="Helvetica" font-size="12" fill="#000000">Citrulline</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 571.279, 131.877)">
+      <tspan x="-42.691" y="3.541" font-family="Helvetica" font-size="12" fill="#000000">Arginosuccinate</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 174.334, 63.221)">
+      <tspan x="-28.172" y="2.687" font-family="Helvetica" font-size="12" fill="#000000">CO₂ + H₂O</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 40.354, 63.221)">
+      <tspan x="-15.902" y="4.543" font-family="Helvetica" font-size="12" fill="#000000">2 ATP</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 175.621, 125.084)">
+      <tspan x="-29.01" y="-3.88" font-family="Helvetica" font-size="12" fill="#000000">Carbamoyl</tspan>
+      <tspan x="-28.69" y="11.12" font-family="Helvetica" font-size="12" fill="#000000">Phosphate</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 327.583, 270.79)">
+      <tspan x="-24.346" y="3.037" font-family="Helvetica" font-size="12" fill="#000000">Ornithine </tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 350.131, 55.448)">
+      <tspan x="-25.682" y="3.963" font-family="Helvetica" font-size="12" fill="#000000">Aspartate</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 571.279, 270.79)">
+      <tspan x="-22.014" y="2.669" font-family="Helvetica" font-size="12" fill="#000000">Arginine</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 639.933, 232.972)">
+      <tspan x="-25.676" y="3.473" font-family="Helvetica" font-size="12" fill="#000000">Fumarate</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 417.317, 298.964)">
+      <tspan x="-13.005" y="2.405" font-family="Helvetica" font-size="12" fill="#000000">Urea</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 487.951, 298.965)">
+      <tspan x="-10.667" y="1.578" font-family="Helvetica" font-size="12" fill="#000000">H₂O</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 420.749, 117.573)">
+      <tspan x="-11.227" y="3.647" font-family="Helvetica" font-size="12" fill="#000000">ATP</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 486.442, 117.573)">
+      <tspan x="-28.405" y="3.553" font-family="Helvetica" font-size="12" fill="#000000">AMP + PP</tspan>
+      <tspan x="27.072" y="3.553" font-family="Helvetica" font-size="6" fill="#000000">i</tspan>
+    </text>
+    <g>
+      <path d="M601.887,231.729 C597.693,228.887 594.925,223.998 594.925,218.442" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-linecap="round"/>
+      <path d="M601.005,234.597 L609.534,234.082 L602.77,228.862 z" fill="#000000" fill-opacity="1" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 31.086, 117.946)">
+      <tspan x="-28.414" y="3.257" font-family="Helvetica" font-size="12" fill="#000000">2 ADP + P</tspan>
+      <tspan x="27.081" y="3.257" font-family="Helvetica" font-size="6" fill="#000000">i </tspan>
+    </text>
+    <g>
+      <path d="M81.127,286.605 L117.294,286.605 C118.888,286.605 120.179,288.099 120.179,289.942 L120.179,299.1 C120.179,300.943 118.888,302.437 117.294,302.437 L81.127,302.437 C79.534,302.437 78.242,300.943 78.242,299.1 L78.242,289.942 C78.242,288.099 79.534,286.605 81.127,286.605 z" fill="#FFFFFF"/>
+      <text transform="matrix(1, 0, 0, 1, 98.998, 294.222)">
+        <tspan x="-17.004" y="3.647" font-family="Helvetica" font-size="12" fill="#000000">NAGS</tspan>
+      </text>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 43.394, 327.141)">
+      <tspan x="-30.009" y="2.541" font-family="Helvetica" font-size="12" fill="#000000">Acetyl-CoA</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 150.632, 327.141)">
+      <tspan x="-27.68" y="2.812" font-family="Helvetica" font-size="12" fill="#000000">Glutamate</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 104.706, 264.658)">
+      <tspan x="-46.017" y="3.342" font-family="Helvetica" font-size="12" fill="#000000">Acetyl-Glutamate</tspan>
+    </text>
+    <g>
+      <path d="M-184.582,31.547 z" fill="#00B200"/>
+      <path d="M-184.582,31.547 z" fill-opacity="0" stroke="#00B200" stroke-width="1" stroke-linecap="round"/>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 451.569, 359.201)">
+      <tspan x="-27.012" y="3.281" font-family="Helvetica" font-size="12" fill="#535353">Arginemia</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 452.532, 46.854)">
+      <tspan x="-50.915" y="4" font-family="Helvetica" font-size="12" fill="#535353">Citrullinemia Type I</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 158.777, 89.876)">
+      <tspan x="-15.671" y="-3.827" font-family="Helvetica" font-size="12" fill="#535353">CPS I</tspan>
+      <tspan x="-27.677" y="11.173" font-family="Helvetica" font-size="12" fill="#535353">Deficiency</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 172.354, 225.89)">
+      <tspan x="-12.665" y="-3.094" font-family="Helvetica" font-size="12" fill="#535353">OTC </tspan>
+      <tspan x="-27.677" y="11.906" font-family="Helvetica" font-size="12" fill="#535353">Deficiency</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 506.501, 202.692)">
+      <tspan x="-38.684" y="-4.122" font-family="Helvetica" font-size="12" fill="#535353">Arginosuccinic</tspan>
+      <tspan x="-21.677" y="10.878" font-family="Helvetica" font-size="12" fill="#535353">Aciduria</tspan>
+    </text>
+    <path d="M101.45,119.442 C98.012,119.442 95.225,116.662 95.225,113.233 C95.225,109.803 98.012,107.023 101.45,107.023 C104.888,107.023 107.675,109.803 107.675,113.233 C107.675,116.662 104.888,119.442 101.45,119.442 z M101.153,109.98 L101.153,112.937 L98.189,112.937 L98.189,113.528 L101.153,113.528 L101.153,116.485 L101.746,116.485 L101.746,113.528 L104.71,113.528 L104.71,112.937 L101.746,112.937 L101.746,109.98 z" fill="#006200"/>
+    <path d="M131.995,300.031 C128.557,300.031 125.77,297.251 125.77,293.821 C125.77,290.392 128.557,287.612 131.995,287.612 C135.433,287.612 138.219,290.392 138.219,293.821 C138.219,297.251 135.433,300.031 131.995,300.031 z M131.698,290.569 L131.698,293.526 L128.734,293.526 L128.734,294.117 L131.698,294.117 L131.698,297.074 L132.291,297.074 L132.291,294.117 L135.255,294.117 L135.255,293.526 L132.291,293.526 L132.291,290.569 z" fill="#006200"/>
+    <g>
+      <path d="M571.956,278.188 C449.324,476.066 363.668,299.474 149.104,295.525" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-linecap="round"/>
+      <path d="M149.125,292.525 L141.104,295.468 L149.083,298.524 M149.104,295.525 L141.104,295.468" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 42.872, 295.74)">
+      <tspan x="-18.421" y="-5.19" font-family="Helvetica" font-size="13" fill="#535353">NAGS</tspan>
+      <tspan x="-29.983" y="10.81" font-family="Helvetica" font-size="13" fill="#535353">Deficiency</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 99.104, 366.09)">
+      <tspan x="-44.072" y="3.862" font-family="Helvetica" font-size="13" fill="#000000">Proprionyl-CoA</tspan>
+    </text>
+    <g>
+      <path d="M99.474,357.452 L99.474,331.253" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-linecap="round"/>
+      <path d="M99.474,331.253 L99.474,325.253 M104.474,325.253 L94.474,325.253" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M101.95,253.991 L101.95,132.918" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-linecap="round"/>
+      <path d="M104.95,132.918 L101.95,124.918 L98.95,132.918 M101.95,132.918 L101.95,124.918" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <g>
+      <path d="M326.534,150.464 L326.534,193.87 L248.901,193.87 C248.5,189.296 245.521,185.099 240.888,185.065 L197.248,185.065 C192.817,185.065 189.225,189.221 189.225,194.348 L189.225,204.778 C189.225,209.905 192.817,214.06 197.248,214.06 L240.888,214.06 C245.319,214.06 249.013,208.893 249.013,203.766 L326.949,203.658 L327.161,258.434" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M329.534,150.464 L326.534,142.464 L323.534,150.464 z" fill="#000000" fill-opacity="1" stroke="#000000" stroke-width="1" stroke-opacity="1"/>
+    </g>
+    <path d="M157.368,202.184 L141.741,202.184 C136.494,202.184 132.241,197.93 132.241,192.684 L132.241,136.689 C132.241,131.442 136.494,127.189 141.741,127.189" fill-opacity="0" stroke="#000000" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+    <g>
+      <path d="M156.357,192.384 L192.525,192.384 C194.118,192.384 195.41,193.878 195.41,195.72 L195.41,204.879 C195.41,206.722 194.118,208.215 192.525,208.215 L156.357,208.215 C154.764,208.215 153.472,206.722 153.472,204.879 L153.472,195.72 C153.472,193.878 154.764,192.384 156.357,192.384 z" fill="#FFFFFF"/>
+      <text transform="matrix(1, 0, 0, 1, 174.228, 200.369)">
+        <tspan x="-12.665" y="4.015" font-family="Helvetica" font-size="12" fill="#000000">OTC</tspan>
+      </text>
+    </g>
+    <text transform="matrix(1, 0, 0, 1, 120.608, 16)">
+      <tspan x="-35.332" y="-3" font-family="TimesNewRomanPS-BoldMT" font-size="12" fill="#000000">Mitochondria</tspan>
+    </text>
+    <text transform="matrix(1, 0, 0, 1, 455.137, 11.791)">
+      <tspan x="-27.668" y="-0.791" font-family="TimesNewRomanPS-BoldMT" font-size="12" fill="#000000">Cytoplasm</tspan>
+    </text>
+  </g>
+</svg>

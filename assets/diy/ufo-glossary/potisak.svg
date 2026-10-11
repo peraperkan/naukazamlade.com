@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 210" role="img" aria-label="Na plovilo deluje sila težine nadole i sila potiska nagore">
+<rect width="320" height="210" fill="#10283a"/><text x="19" y="30" fill="#eaf4fb" font-family="Arial" font-size="19" font-weight="bold">Potisak vode</text>
+<path d="M0 131Q40 126 80 131T160 131T240 131T320 131V210H0Z" fill="#126a96"/>
+<path d="M45 111H275L246 149H74Z" fill="#d2dbe1" stroke="#edf7fc" stroke-width="3"/>
+<path d="M160 50V105" stroke="#ff8e7d" stroke-width="6"/><path d="M148 94l12 16 12-16" fill="none" stroke="#ff8e7d" stroke-width="5"/>
+<path d="M160 183V139" stroke="#62e7d4" stroke-width="6"/><path d="M148 150l12-16 12 16" fill="none" stroke="#62e7d4" stroke-width="5"/>
+<text x="174" y="72" fill="#ffb7ac" font-family="Arial" font-size="15">težina</text><text x="176" y="183" fill="#9cf1e3" font-family="Arial" font-size="15">potisak</text>
+</svg>

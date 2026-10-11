@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 210" role="img" aria-label="Voda ulazi ispod trupa i izlazi kao mlaz pozadi">
+<rect width="320" height="210" fill="#10283a"/><text x="18" y="31" fill="#eaf4fb" font-family="Arial" font-size="19" font-weight="bold">Mlazni pogon</text>
+<path d="M0 137H320V210H0Z" fill="#125f8b"/><path d="M50 96H264L243 141H75Z" fill="#d4dee7" stroke="#edf7fc" stroke-width="3"/>
+<circle cx="171" cy="126" r="15" fill="#2d4253" stroke="#eaf4fb" stroke-width="2"/>
+<path d="M113 177l34-37" stroke="#69ddff" stroke-width="7" stroke-linecap="round"/><path d="M136 145l14-9-7 16" fill="#69ddff"/>
+<path d="M185 126H294" stroke="#69ddff" stroke-width="8" stroke-linecap="round"/><path d="M280 114l18 12-18 12" fill="none" stroke="#69ddff" stroke-width="6"/>
+<path d="M110 70H44" stroke="#80f0d0" stroke-width="7" stroke-linecap="round"/><path d="M58 58L40 70l18 12" fill="none" stroke="#80f0d0" stroke-width="6"/>
+<text x="35" y="192" fill="#eaf4fb" font-family="Arial" font-size="13">ulaz vode</text><text x="230" y="181" fill="#eaf4fb" font-family="Arial" font-size="13">izlazni mlaz</text>
+</svg>

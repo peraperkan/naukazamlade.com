@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 210" role="img" aria-label="Tok vode oko trupa stvara različite sile">
+<rect width="320" height="210" fill="#10283a"/><text x="18" y="31" fill="#eaf4fb" font-family="Arial" font-size="18" font-weight="bold">Sile vode u kretanju</text>
+<path d="M42 117H278L244 145H76Z" fill="#d4dee7" stroke="#edf7fc" stroke-width="3"/>
+<path d="M23 73Q158 50 297 75M20 91Q160 73 301 94M20 156Q153 178 297 157M22 180Q160 200 299 179" fill="none" stroke="#52bfe9" stroke-width="4"/>
+<path d="M285 69l16 7-16 7M289 87l16 7-16 7M285 150l16 7-16 7" fill="none" stroke="#52bfe9" stroke-width="3"/>
+<text x="57" y="195" fill="#eaf4fb" font-family="Arial" font-size="13">strujanje vode oko trupa</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 210" role="img" aria-label="Sunčeva svetlost pada na solarni panel koji proizvodi električnu energiju">
+<rect width="320" height="210" fill="#10283a"/><text x="18" y="30" fill="#eaf4fb" font-family="Arial" font-size="19" font-weight="bold">Solarni panel</text>
+<circle cx="60" cy="69" r="21" fill="#ffd35c"/><path d="M81 83l44 31M94 60l44 15M64 94l37 34" stroke="#ffd35c" stroke-width="5" stroke-linecap="round"/>
+<path d="M115 121l120-20 20 62-120 20Z" fill="#1d75a4" stroke="#9bdcf9" stroke-width="4"/>
+<path d="M130 119l20 61M161 112l20 61M191 107l20 61M223 102l20 61M123 144l120-20M131 167l120-20" stroke="#8ccceb" stroke-width="2"/>
+<path d="M255 139q31 0 31 29" fill="none" stroke="#71e7d9" stroke-width="4"/><circle cx="285" cy="175" r="10" fill="#ffe785"/>
+<text x="187" y="199" fill="#eaf4fb" font-family="Arial" font-size="13">svetlost → električna energija</text>
+</svg>

@@ -1,0 +1,24 @@
+import { scientistFeatures } from './feature-scientists.mjs';
+import { surprisingFeatures } from './feature-surprises.mjs';
+import { historyFeatures } from './feature-history.mjs';
+import { tellerFeature } from './feature-teller.mjs';
+import { diyFeatures } from './feature-diy.mjs';
+import { apolloFeature } from './feature-apollo.mjs';
+import { newNewsFeatures } from './feature-new-news.mjs';
+import { psychologyFeatures } from './feature-psychology.mjs';
+import { approvedFeatures } from './feature-approved.mjs';
+import { lucyFeature } from './feature-lucy.mjs';
+import { noetherFeature } from './feature-noether.mjs';
+import { ufoFeature } from './feature-ufo.mjs';
+import {psychologySeptemberFeatures} from './feature-psychology-20260927.mjs';
+import {moonFeature} from './feature-moon.mjs';
+import {immunityFeature} from './feature-immunity.mjs';
+import {octopusFeature} from './feature-octopus.mjs';
+import {reviewFeatures} from './feature-review-20261001.mjs';
+import {planetNineFeature} from './feature-planetnine.mjs';
+import {printingFeature} from './feature-3dprinting.mjs';
+import {petFeature} from './feature-pet.mjs';
+import {polishReviewFeatures} from './review-postprocess.mjs';
+polishReviewFeatures(reviewFeatures);
+
+export const featureArticles = [...scientistFeatures,tellerFeature,...surprisingFeatures,apolloFeature,...newNewsFeatures,...historyFeatures,...diyFeatures,...psychologyFeatures,...approvedFeatures,lucyFeature,noetherFeature,ufoFeature,...psychologySeptemberFeatures,moonFeature,immunityFeature,octopusFeature,...reviewFeatures,planetNineFeature,printingFeature,petFeature];

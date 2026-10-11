@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 260" role="img" aria-label="Shematski prikaz sunčeve svetlosti i toplotnog zračenja sa nepravilnog asteroida">
+  <rect width="360" height="260" fill="#071925"/>
+  <circle cx="57" cy="127" r="30" fill="#f6bd37"/>
+  <g stroke="#f6bd37" stroke-width="3" stroke-linecap="round"><path d="M57 75V64M57 190v-11M4 127h12M98 127h12M20 91l-8-8M94 164l8 8M20 164l-8 8M94 91l8-8"/></g>
+  <g stroke="#f7ce68" stroke-width="3" marker-end="url(#arrow)"><path d="M103 104l73 13M104 131l67 4M104 155l67-11"/></g>
+  <path d="M211 83 Q246 75 266 97 L288 124 Q291 157 264 172 L222 181 Q189 171 181 139 L188 104Z" fill="#777e85" stroke="#b8c0c7" stroke-width="3"/>
+  <path d="M260 89 Q307 89 308 139" fill="none" stroke="#f27758" stroke-width="5" marker-end="url(#redarrow)"/>
+  <path d="M289 113l38-19M292 137l42-3M281 159l35 17" fill="none" stroke="#f27758" stroke-width="3" marker-end="url(#redarrow)"/>
+  <defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0l10 5-10 5Z" fill="#f7ce68"/></marker><marker id="redarrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0 0l10 5-10 5Z" fill="#f27758"/></marker></defs>
+</svg>
