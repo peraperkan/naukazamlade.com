@@ -139,9 +139,9 @@ export const editorialSources = {
 
 export const infoText = {
   about: {
-    sr:{title:'O projektu',body:'NZM je nezavisan portal za radoznale čitaoce. Naučne teme objašnjavamo jasno, uz izvore i bez senzacionalizma. Ova prva verzija je demonstracija budućeg portala.'},
-    sl:{title:'O projektu',body:'NZM je neodvisen portal za radovedne bralce. Znanstvene teme razlagamo jasno, z viri in brez senzacionalizma. Ta prva različica prikazuje prihodnji portal.'},
-    en:{title:'About the project',body:'NZM is an independent portal for curious readers. We explain science clearly, cite sources and avoid sensationalism. This first version demonstrates the future portal.'}},
+    sr:{title:'O projektu',body:'Nauka za mlade (NZM) je nezavisan portal za radoznale čitaoce. Naučne teme objašnjavamo jasno, uz izvore i bez senzacionalizma. Ova prva verzija je demonstracija budućeg portala.'},
+    sl:{title:'O projektu',body:'Znanost za mlade (NZM) je neodvisen portal za radovedne bralce. Znanstvene teme razlagamo jasno, z viri in brez senzacionalizma. Ta prva različica prikazuje prihodnji portal.'},
+    en:{title:'About the project',body:'Science for Youth (NZM) is an independent portal for curious readers. We explain science clearly, cite sources and avoid sensationalism. This first version demonstrates the future portal.'}},
   contact: {
     sr:{title:'Kontakt',body:'Urednički kontakt biće objavljen pre javnog pokretanja portala. Za sada je ovo demonstraciona verzija.'},
     sl:{title:'Kontakt',body:'Uredniški kontakt bo objavljen pred javnim zagonom portala. Za zdaj je to predstavitvena različica.'},

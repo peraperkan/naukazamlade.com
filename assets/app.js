@@ -183,6 +183,15 @@ document.querySelector('.search-trigger')?.addEventListener('click', () => {
 document.querySelector('.search-close')?.addEventListener('click', closeSearch);
 document.querySelector('.search-backdrop')?.addEventListener('click', closeSearch);
 searchInput?.addEventListener('input', updateSearch);
+const initialSearch=new URLSearchParams(location.search).get('q')?.trim();
+if(initialSearch&&modal&&searchInput){
+  returnFocus=document.querySelector('.search-trigger');
+  modal.hidden=false;
+  body.style.overflow='hidden';
+  searchInput.value=initialSearch;
+  updateSearch();
+  searchInput.focus();
+}
 document.addEventListener('keydown', e => { if(e.key === 'Escape' && !modal.hidden) closeSearch(); });
 modal?.addEventListener('keydown', e => {
   if(e.key !== 'Tab') return;

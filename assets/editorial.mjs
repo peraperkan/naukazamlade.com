@@ -37,7 +37,7 @@ export function homeHeroHtml(lang,now=new Date()){
   const category=categories.find(c=>c.id===article.category);
   const href=`/${lang}/${category.slugs[lang]}/${translation.slug}/`;
   const image=/^https:\/\//.test(article.media.hero)?article.media.hero:`/assets/${article.media.hero}`;
-  return `<a class="hero-main daily-feature" data-daily-article="${esc(article.id)}" data-editorial-day="${day}" href="${esc(href)}"><img src="${esc(image)}" alt="${esc(article.media.alt[lang])}" fetchpriority="high"><div class="hero-overlay"></div><div class="hero-content"><span class="tag tag-${esc(category.color)}">${esc(category.names[lang])}</span><h1>${esc(translation.title)}</h1><p>${esc(translation.lead)}</p><div class="hero-bottom"><span class="primary-button">${esc(ui[lang].more)}<span aria-hidden="true"> →</span></span><span>${article.readByLang?.[lang]??article.read} ${esc(ui[lang].read)}</span></div></div></a>`;
+  return `<a class="hero-main daily-feature" data-daily-article="${esc(article.id)}" data-editorial-day="${day}" href="${esc(href)}"><img src="${esc(image)}" alt="${esc(article.media.alt[lang])}" fetchpriority="high"><div class="hero-overlay"></div><div class="hero-content"><span class="tag tag-${esc(category.color)}">${esc(category.names[lang])}</span><h2>${esc(translation.title)}</h2><p>${esc(translation.lead)}</p><div class="hero-bottom"><span class="primary-button">${esc(ui[lang].more)}<span aria-hidden="true"> →</span></span><span>${article.readByLang?.[lang]??article.read} ${esc(ui[lang].read)}</span></div></div></a>`;
 }
 
 export function homeFactHtml(lang,now=new Date()){
