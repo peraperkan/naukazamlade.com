@@ -1,6 +1,7 @@
 import {astronomyPart3Additions} from './timeline-astronomy-part3.mjs';
 import {astronomyPart4Additions} from './timeline-astronomy-part4.mjs';
 import {astronomyPart5Additions} from './timeline-astronomy-part5.mjs';
+import {astronomyPart6Additions} from './timeline-astronomy-part6.mjs';
 // Milestones discussed in the site's astronomy serial.
 // Uncertain archaeological interpretations are labelled as such in the dialog.
 const serial='https://naukazamlade.com/sr/istorija-nauke/feljton-istorija-astronomije/';
@@ -249,3 +250,4 @@ Object.assign(astronomyAdditions.find(e=>e.key==='serial-zodiac').media,{file:'s
 astronomyAdditions.push(...astronomyPart3Additions);
 astronomyAdditions.push(...astronomyPart4Additions);
 astronomyAdditions.push(...astronomyPart5Additions);
+astronomyAdditions.push(...astronomyPart6Additions);

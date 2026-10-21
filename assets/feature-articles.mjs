@@ -18,7 +18,11 @@ import {reviewFeatures} from './feature-review-20261001.mjs';
 import {planetNineFeature} from './feature-planetnine.mjs';
 import {printingFeature} from './feature-3dprinting.mjs';
 import {petFeature} from './feature-pet.mjs';
+import {optogeneticsFeature} from './feature-optogenetics.mjs';
+import {nobelChemFeature} from './feature-nobel-chem-2026.mjs';
+import {nobelPhysicsFeature} from './feature-nobel-physics-2026.mjs';
+import {mmxFeature} from './feature-mmx-2026.mjs';
 import {polishReviewFeatures} from './review-postprocess.mjs';
 polishReviewFeatures(reviewFeatures);
 
-export const featureArticles = [...scientistFeatures,tellerFeature,...surprisingFeatures,apolloFeature,...newNewsFeatures,...historyFeatures,...diyFeatures,...psychologyFeatures,...approvedFeatures,lucyFeature,noetherFeature,ufoFeature,...psychologySeptemberFeatures,moonFeature,immunityFeature,octopusFeature,...reviewFeatures,planetNineFeature,printingFeature,petFeature];
+export const featureArticles = [...scientistFeatures,tellerFeature,...surprisingFeatures,apolloFeature,...newNewsFeatures,...historyFeatures,...diyFeatures,...psychologyFeatures,...approvedFeatures,lucyFeature,noetherFeature,ufoFeature,...psychologySeptemberFeatures,moonFeature,immunityFeature,octopusFeature,...reviewFeatures,planetNineFeature,printingFeature,petFeature,optogeneticsFeature,nobelChemFeature,nobelPhysicsFeature,mmxFeature];
