@@ -1,7 +1,7 @@
 import { newsArticles } from './news2026.mjs';
 import { biographies } from './biographies.mjs';
 import { featureArticles } from './feature-articles.mjs';
-import { extraQuiz } from './quiz-extra.mjs';
+import { scribdQuiz } from './quiz-scribd.mjs';
 
 export const origin = 'https://naukazamlade.com';
 
@@ -106,12 +106,7 @@ export const timeline = [
   {year:'1969',who:{sr:'Čovek na Mesecu',sl:'Človek na Luni',en:'Moon landing'}}
 ];
 
-export const quiz = [
-  {q:{sr:'Koja planeta ima najduži dan?',sl:'Kateri planet ima najdaljši dan?',en:'Which planet has the longest day?'}, options:{sr:['Merkur','Venera','Mars','Jupiter'],sl:['Merkur','Venera','Mars','Jupiter'],en:['Mercury','Venus','Mars','Jupiter']},answer:1,explanation:{sr:'Venera se oko svoje ose okrene za približno 243 zemaljska dana — duže nego što joj traje obilazak oko Sunca.',sl:'Venera se okoli svoje osi zavrti v približno 243 zemeljskih dneh, dlje kot traja njen obhod okoli Sonca.',en:'Venus takes about 243 Earth days to rotate once, longer than its orbit around the Sun.'}},
-  {q:{sr:'Zašto led pluta na vodi?',sl:'Zakaj led plava na vodi?',en:'Why does ice float on water?'},options:{sr:['Topliji je','Manje je gust','Sadrži so','Lakši je od vazduha'],sl:['Toplejši je','Manj gost je','Vsebuje sol','Lažji je od zraka'],en:['It is warmer','It is less dense','It contains salt','It is lighter than air']},answer:1,explanation:{sr:'Molekuli u ledu su raspoređeni u otvoreniju strukturu, pa led ima manju gustinu od tečne vode.',sl:'Molekule v ledu tvorijo bolj odprto zgradbo, zato je led manj gost od tekoče vode.',en:'Water molecules form a more open structure in ice, making it less dense than liquid water.'}},
-  {q:{sr:'Ako se velika poluosa orbite planete oko iste zvezde udvostruči, koliko puta poraste orbitalni period?',sl:'Če se velika polos orbite planeta okoli iste zvezde podvoji, za koliko se poveča obhodni čas?',en:'If a planet’s orbital semimajor axis around the same star doubles, by what factor does its orbital period grow?'},options:{sr:['1,4 puta','2 puta','Oko 2,8 puta','4 puta'],sl:['1,4-krat','2-krat','Približno 2,8-krat','4-krat'],en:['1.4 times','2 times','About 2.8 times','4 times']},answer:2,explanation:{sr:'Treći Keplerov zakon daje P² ∝ a³ za isto centralno telo, pa je novi period 2^(3/2) ≈ 2,8 puta duži.',sl:'Tretji Keplerjev zakon za isto osrednje telo pravi P² ∝ a³, zato je nova perioda 2^(3/2) ≈ 2,8-krat daljša.',en:'Kepler’s third law gives P² ∝ a³ for the same central star, so the new period is 2^(3/2) ≈ 2.8 times longer.'}},
-  ...extraQuiz
-];
+export const quiz = scribdQuiz;
 
 // Editorial discovery list. These sites suggest topics; each published article cites
 // the specific report, paper or institutional release used to check its claims.

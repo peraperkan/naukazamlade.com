@@ -221,42 +221,40 @@ if (quizHost) {
 
 const fullQuiz = document.querySelector('#full-quiz');
 if (fullQuiz) {
+  const start = Number(fullQuiz.dataset.start || 0);
+  const questions = quiz.slice(start, start + 30);
   const total = fullQuiz.querySelector('#quiz-total');
   let graded = false;
   fullQuiz.addEventListener('change', () => {
-    fullQuiz.querySelectorAll('.quiz-full-card.needs-answer').forEach(el => el.classList.remove('needs-answer'));
     if (!graded) return;
     graded = false;
     total.textContent = '';
     fullQuiz.querySelectorAll('.quiz-feedback').forEach(el => { el.hidden = true; });
     fullQuiz.querySelectorAll('.quiz-full-option').forEach(el => el.classList.remove('correct-answer','wrong-answer'));
+    fullQuiz.querySelectorAll('.quiz-full-card.unanswered-question').forEach(el => el.classList.remove('unanswered-question'));
   });
   fullQuiz.addEventListener('submit', event => {
     event.preventDefault();
-    const picks = quiz.map((_,i) => fullQuiz.querySelector(`input[name="question-${i}"]:checked`));
-    const missing = picks.findIndex(pick => !pick);
-    if (missing !== -1) {
-      total.textContent = ({sr:`Odgovori na svih ${quiz.length} pitanja pre prikaza rezultata.`,sl:`Pred prikazom rezultata odgovori na vseh ${quiz.length} vprašanj.`,en:`Answer all ${quiz.length} questions before showing your score.`})[lang];
-      const missingCard = fullQuiz.querySelector(`[data-question="${missing}"]`);
-      missingCard?.classList.add('needs-answer');
-      missingCard?.scrollIntoView({behavior:'smooth',block:'center'});
-      return;
-    }
-    let correct = 0;
-    quiz.forEach((item,i) => {
+    let correct = 0, incorrect = 0, unanswered = 0;
+    questions.forEach((item,i) => {
       const card = fullQuiz.querySelector(`[data-question="${i}"]`);
-      const chosen = Number(picks[i].value);
-      if (chosen === item.answer) correct++;
+      const pick = card.querySelector(`input[name="question-${i}"]:checked`);
+      const chosen = pick ? Number(pick.value) : null;
+      if (chosen === null) unanswered++;
+      else if (chosen === item.answer) correct++;
+      else incorrect++;
+      card.classList.toggle('unanswered-question',chosen===null);
       card.querySelectorAll('.quiz-full-option').forEach((option,j) => {
         option.classList.toggle('correct-answer',j===item.answer);
         option.classList.toggle('wrong-answer',j===chosen && j!==item.answer);
       });
       const feedback = card.querySelector('.quiz-feedback');
       feedback.hidden = false;
-      feedback.textContent = `${chosen===item.answer?t.correct:t.incorrect} ${item.explanation[lang]}`;
+      const status = chosen===null ? ({sr:'Nije odgovoreno.',sl:'Ni odgovora.',en:'Unanswered.'})[lang] : chosen===item.answer?t.correct:({sr:'Netačno.',sl:'Napačno.',en:'Incorrect.'})[lang];
+      feedback.textContent = `${status} ${item.explanation[lang]}`;
     });
     graded = true;
-    total.textContent = ({sr:`Tačnih odgovora: ${correct} od ${quiz.length} (${Math.round(correct/quiz.length*100)}%).`,sl:`Pravilnih odgovorov: ${correct} od ${quiz.length} (${Math.round(correct/quiz.length*100)} %).`,en:`Correct answers: ${correct} of ${quiz.length} (${Math.round(correct/quiz.length*100)}%).`})[lang];
+    total.textContent = ({sr:`Tačno: ${correct}. Netačno: ${incorrect}. Bez odgovora: ${unanswered}. Ukupan skor: ${correct} od ${questions.length} (${Math.round(correct/questions.length*100)}%).`,sl:`Pravilno: ${correct}. Napačno: ${incorrect}. Brez odgovora: ${unanswered}. Skupni rezultat: ${correct} od ${questions.length} (${Math.round(correct/questions.length*100)} %).`,en:`Correct: ${correct}. Incorrect: ${incorrect}. Unanswered: ${unanswered}. Total score: ${correct} of ${questions.length} (${Math.round(correct/questions.length*100)}%).`})[lang];
     total.scrollIntoView({behavior:'smooth',block:'center'});
   });
 }

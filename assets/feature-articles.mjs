@@ -22,7 +22,8 @@ import {optogeneticsFeature} from './feature-optogenetics.mjs';
 import {nobelChemFeature} from './feature-nobel-chem-2026.mjs';
 import {nobelPhysicsFeature} from './feature-nobel-physics-2026.mjs';
 import {mmxFeature} from './feature-mmx-2026.mjs';
+import {iodineFeature} from './feature-iodine.mjs';
 import {polishReviewFeatures} from './review-postprocess.mjs';
 polishReviewFeatures(reviewFeatures);
 
-export const featureArticles = [...scientistFeatures,tellerFeature,...surprisingFeatures,apolloFeature,...newNewsFeatures,...historyFeatures,...diyFeatures,...psychologyFeatures,...approvedFeatures,lucyFeature,noetherFeature,ufoFeature,...psychologySeptemberFeatures,moonFeature,immunityFeature,octopusFeature,...reviewFeatures,planetNineFeature,printingFeature,petFeature,optogeneticsFeature,nobelChemFeature,nobelPhysicsFeature,mmxFeature];
+export const featureArticles = [...scientistFeatures,tellerFeature,...surprisingFeatures,apolloFeature,...newNewsFeatures,...historyFeatures,...diyFeatures,...psychologyFeatures,...approvedFeatures,lucyFeature,noetherFeature,ufoFeature,...psychologySeptemberFeatures,moonFeature,immunityFeature,octopusFeature,...reviewFeatures,planetNineFeature,printingFeature,petFeature,optogeneticsFeature,nobelChemFeature,nobelPhysicsFeature,mmxFeature,iodineFeature];
